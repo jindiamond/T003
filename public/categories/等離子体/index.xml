@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>等離子体 on Liva | Personal blog template</title>
+    <link>https://jindiamond.github.io/categories/%E7%AD%89%E9%9B%A2%E5%AD%90%E4%BD%93/</link>
+    <description>Recent content in 等離子体 on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Mar 2024 15:37:47 +0800</lastBuildDate>
+    <atom:link href="https://jindiamond.github.io/categories/%E7%AD%89%E9%9B%A2%E5%AD%90%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>等離子体介紹</title>
+      <link>https://jindiamond.github.io/blog/plasma_intr/</link>
+      <pubDate>Sat, 23 Mar 2024 15:37:47 +0800</pubDate>
+      <guid>https://jindiamond.github.io/blog/plasma_intr/</guid>
+      <description>Hello world
+我是阿犀
+一級標題 二級標題 六級標題 This is a</description>
+    </item>
+  </channel>
+</rss>
